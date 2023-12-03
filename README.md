@@ -1,9 +1,9 @@
 <h1> 👽🤡🧙👻💀 ONION LINKS 💀👻🧙🤡👽</h1>
 
-<pre>"If the government or the parties won't address our needs, we will.    
-It's about direct action, even civil disobedience." (Edward Snowden)</pre>
+<blockquote>"If the government or the parties won't address our needs, we will.    
+It's about direct action, even civil disobedience." (Edward Snowden)</blockquote>
 
-![lasmeninas](https://github.com/RENANZG/My-Onion-Links/assets/53377291/e69859bd-ee3e-4d1b-8200-b51b2cf76eb0)
+![banner](.data/las_meninas_1656_-_velazquez_830px.png)
 
 <hr>
 
@@ -13,14 +13,16 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 <summary><b>The Basics of the Dark Web</b></summary>
 
 <a href="https://www.youtube.com/watch?v=nFZm4sVsPXk">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
-</a><br>
+<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFZm4sVsPXk" alt="Secure TailsOS Setup For The Average Dark Web Enjoyer" title="Secure TailsOS Setup For The Average Dark Web Enjoyer"/>
+</a>
 <a href="https://www.youtube.com/watch?v=GR_U0G-QGA0">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
-</a><br>
+</a></br>
+
 <a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
-</a><br>
+<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
+<a href="https://www.youtube.com/watch?v=47zJPU0VHSQ">
+<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D47zJPU0VHSQ" alt="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA" title="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA"/></a></br>
 </details>
 
 <details>
@@ -54,9 +56,9 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>How to set up Whonix VM with VirtualBox on Linux</b></summary>
+<summary><b>Whonix - How to set up Whonix VM with VirtualBox on Linux</b></summary>
 
-<em>Always prefer the live mode that doesn't leave any kind of forensic trace. I always prefer Linux as a host.</em>
+<em>Always prefer the live mode that doesn't leave any kind of forensic trace. Always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
@@ -77,10 +79,10 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>How to setup TailsOS VM with VirtualBox</b></summary></br>
+<summary><b>TailsOS VM - How to setup TailsOS VM with VirtualBox</b></summary></br>
 <p>Introduction: Welcome to the tutorial on creating a VirtualBox with TailsOS, Oracle VM VirtualBox is simple yet powerful as it can be run from a multitude of devices such as small embedded systems to datacenter deployments whilst TailsOS is a portable operating system that protects against surveillance and censorship.</p>
 
-<em>Always prefer the live mode that doesn't leave any kind of forensic trace. I always prefer Linux as a host.</em>
+<em>Always prefer the live mode that doesn't leave any kind of forensic trace. Always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
@@ -164,6 +166,8 @@ Advanced  select:</br>
 <br>
 </details>
 
+<p>EFF Tor University Challenge - https://toruniversity.eff.org</p></br>
+
 <hr>
 
 ### GENERAL  
@@ -172,6 +176,8 @@ Simple Bookmarks - http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivh
 V3Paste – http://v3pastedc5jeqahtq77gvu3vz222bcqhlfubfunzjzqedg6jdqqlvgqd.onion</br>
 TorPaste – http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion</br>
 Stronghold Paste - http://strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd.onion</br>
+Hidden Answers - http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion</br>
+Deep Answers - http://deepa2kol4ur4wkzpmjf5rf7lvsflzisslnrnr2n7goaebav4j6w7zyd.onion</br>
 Invidious YouTube -  http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion</br>
 Facebook - https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion</br>
 Nitter Twitter - http://vfaomgh4jxphpbdfizkm5gbtjahmei234giqj4facbwhrfjtcldauqad.onion</br>
@@ -211,6 +217,37 @@ TorWhois – http://torwhois2wo3cdwveznqlf2jz7ezm6icqrmnnr3fnez67vnyatqc65ad.oni
 Demon - http://srcdemonm74icqjvejew6fprssuolyoc2usjdwflevbdpqoetw4x3ead.onion</br>
 FindTor - http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion</br>
 Tordex - http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion</br>
+Tor Links - http://5n4qdkw2wavc55peppyrelmb2rgsx7ohcb2tkxhub2gyfurxulfyd3id.onion</br>
+
+### SECURITY AND PRIVACY
+Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion</br>
+DNM Bible – http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion</br>
+XMRGuide – http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion</br>
+CryptBB – http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion</br>
+Skywalkers – http://cr756sdj2ukmiid6io6wlp5clg7227af7ttqqnge2t357bwdgsr22did.onion</br>
+Privacy Guides - http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion</br>
+Dark.fail's PGP Tool - http://www.darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion</br>
+Surveillance Self-Defense - https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion </br>
+The Hitchhiker’s Guide to Online Anonymity - http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion</br>
+Security in a box - http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion</br>
+Debian - http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion</br>
+Hardened BSD - http://lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion</br>
+Hack This Site - http://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion</br>
+Qubes OS - http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion</br>
+Whonix OS - http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion</br>
+Tor Guide - http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion</br>
+DEF CON Forum - http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion</br>
+DEF CON Groups - http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion</br>
+DEF CON Media - http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion</br>
+Fake ID Generator - http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion</br>
+Black Hat Chat - http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion </br>
+Tor Specifications - http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion</br>
+
+### VPN   
+Mullvad – http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion</br>
+Cryptostorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion</br>
+Njalla VPN – https://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</br>
+AirVPN – https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion</br>
 
 ### COMUNICATION  
 Protonmail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion</br>
@@ -238,36 +275,8 @@ WebIRC – http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion
 Cwtch – http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion</br>
 ZeroBin - http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion</br>
 
-### SECURITY AND PRIVACY
-Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion</br>
-DNM Bible – http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion</br>
-XMRGuide – http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion</br>
-CryptBB – http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion</br>
-Skywalkers – http://cr756sdj2ukmiid6io6wlp5clg7227af7ttqqnge2t357bwdgsr22did.onion</br>
-Privacy Guides - http://www.xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion</br>
-Dark.fail's PGP Tool - http://www.darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion</br>
-Surveillance Self-Defense - https://y7yea4pmqqtznb33qiugvysyn2bob5v62e4pvoadoibrwkq3tsddjeyd.onion </br>
-The Hitchhiker’s Guide to Online Anonymity - http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion</br>
-Security in a box - http://lxjacvxrozjlxd7pqced7dyefnbityrwqjosuuaqponlg3v7esifrzad.onion</br>
-Debian - http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion</br>
-Hardened BSD - http://lkiw4tmbudbr43hbyhm636sarn73vuow77czzohdbqdpjuq3vdzvenyd.onion</br>
-Hack This Site - http://hackthisjogneh42n5o7gbzrewxee3vyu6ex37ukyvdw6jm66npakiyd.onion</br>
-Qubes OS - http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion</br>
-Whonix OS - http://www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion</br>
-Tor Guide - http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion</br>
-DEF CON Forum - http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion</br>
-DEF CON Groups - http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion</br>
-DEF CON Media - http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion</br>
-Fake ID Generator - http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion</br>
-Black Hat Chat - http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion </br>
-
-### VPN   
-Mullvad – http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion</br>
-Cryptostorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion</br>
-Njalla VPN – https://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</br>
-AirVPN – https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion</br>
-
 ### CRYPTOCURRENCY  
+Bisq Wiki - http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion</br>
 Wasabi - http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion</br>
 Hidden Wallet - http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion</br>
 OnionWallet - http://p2qzxkca42e3wccvqgby7jrcbzlf6g7pnkvybnau4szl5ykdydzmvbid.onion</br>
@@ -281,7 +290,6 @@ Mempool – http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onio
 Blockstream – http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion</br>
 Cryptostamps – http://lgh3eosuqrrtvwx3s4nurujcqrm53ba5vqsbim5k5ntdpo33qkl7buyd.onion</br>
 Antialysis – http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion</br>
-Bisq Wiki - http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion</br>
 
 ### CRYPTOCURRENCY EXCHANGES
 Exch - http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion</br>
@@ -310,15 +318,16 @@ EuroGuns – http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.oni
 EuroGuns – http://hyjgsnkanan2wsrksd53na4xigtxhlz57estwqtptzhpa53rxz53pqad.onion</br>
 UkGunsAndAmmo – http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion</br>
 UkGunsAndAmmo – http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion</br>
+Dream Market - </br>
 
 ### LIBRARIES  
 Z-Library - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</br>
 Z-Library Login Page - http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion</br>
+Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</br>
 The Anarchist Library - http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</br>
 Comic Book Library - http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion</br>
 Just Another Library - http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</br>
 InfoCon - http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</br>
-Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</br>
 GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</br>
 TSSA – http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion</br>
 
@@ -327,9 +336,9 @@ Tor Times - http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onio
 DarkMatter – http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion</br>
 DarkNetLive – http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion</br>
 Flashlight – http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion</br>
+Tape-News - http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion</br>
 NCIDE Task Force -   http://ncidetfs7banpz2d7vpndev5somwoki5vwdpfty2k7javniujekit6ad.onion</br>
 National Police of the Netherlands - http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion</br>
-Tape-News - http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion</br>
 
 ### CHANS    
 8Chan - http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion</br>
@@ -364,32 +373,36 @@ HARICA Certificate Authority - https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwd
 <h2>REFERENCES</h2>
 
 <table style="width:100%" cellspacing="0" cellpadding="0">
-<thead>
-  <tr>
-    <td align="left" valign="top">
-    https://github.com/UncensoredHiddenWiki/onion-links<br>
-    https://github.com/ahmia/ahmia-site<br>
-    https://github.com/OnionLinker/onion-links<br>
-    https://github.com/OnionLinker/onion-links<br>
-    https://github.com/alecmuffett/real-world-onion-sites<br>
-    https://github.com/DarkNetEye/tor-links<br>
-    https://github.com/gt0day/DarkWeb<br>
-    https://github.com/praveenjalasutram/Darkweb-Onion-Links<br>
-    https://github.com/5ky1ar/Awesome-Onion-Links<br>
-    https://github.com/alecmuffett/eotk<br>
-    </td>
-    <td align="left" valign="top">
-    https://oniondotindex.com<br>
-    https://pastebin.com<br>
-    https://hidden-wiki.cc<br>
-    https://raddle.me/wiki/onion_index<br>
-    https://dark.fail<br>
-    https://kycnot.me<br>
-    https://godnotaba.io<br>
-    https://www.reddit.com/r/onions<br>
-    https://www.reddit.com/r/TOR<br>
-    <br>
-    </td>
-  </tr>
-</thead>
+<tr>
+<td align="left" valign="top">
+https://github.com/UncensoredHiddenWiki/onion-links</br>
+https://github.com/ahmia/ahmia-site</br>
+https://github.com/01Kevin01/OnionLinksV3</br>
+https://github.com/OnionLinker/onion-links</br>
+https://github.com/alecmuffett/real-world-onion-sites</br>
+https://github.com/DarkNetEye/tor-links</br>
+https://github.com/gt0day/DarkWeb</br>
+https://github.com/praveenjalasutram/Darkweb-Onion-Links</br>
+https://github.com/5ky1ar/Awesome-Onion-Links</br>
+https://github.com/alecmuffett/eotk</br>
+</td>
+<td align="left" valign="top">
+https://www.reddit.com/r/onions</br>
+https://www.reddit.com/r/TOR</br>
+https://oniondotindex.com</br>
+https://pastebin.com</br>
+https://hidden-wiki.cc</br>
+https://raddle.me/wiki/onion_index</br>
+https://dark.fail</br>
+https://kycnot.me</br>
+https://godnotaba.io</br>
+<br>
+</td>
+</tr>
 </table>
+
+Scraping or inspecting deep web links</br>
+https://github.com/RetroPackets/GRIME </br>
+https://github.com/k4m4/onion-regex</br>
+https://github.com/k4m4/onioff</br>
+https://github.com/DanWin/onion-link-list</br>
