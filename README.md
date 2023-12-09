@@ -1,9 +1,20 @@
+<!DOCTYPE html>
+<html lang='en' class=''>
+
+<head>
+
+  <meta charset='UTF-8'>
+
+<body>
+
 <h1> 👽🤡🧙👻💀 ONION LINKS 💀👻🧙🤡👽</h1>
 
-<blockquote>"If the government or the parties won't address our needs, we will.    
-It's about direct action, even civil disobedience." (Edward Snowden)</blockquote>
+<blockquote><h3>"If the government or the parties won't address our needs, we will.    
+It's about direct action, even civil disobedience." (Edward Snowden)</h3></blockquote>
 
-![banner](.data/las_meninas_1656_-_velazquez_830px.png)
+<div id="header" align="center">
+  <img src=".data/las_meninas_1656_-_velazquez_830px.png"/>
+</div>
 
 <hr>
 
@@ -56,15 +67,31 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>Whonix - How to set up Whonix VM with VirtualBox on Linux</b></summary>
+<summary><b>KVM — Using Whonix with KVM (Kernel Virtual Machine)</b></summary></br>
+<a href="https://www.whonix.org/wiki/KVM#What_is_KVM?">https://www.whonix.org/wiki/KVM</a><br>
+<hr>
+<br>
+</details>
 
-<em>Always prefer the live mode that doesn't leave any kind of forensic trace. Always prefer Linux as a host.</em>
+
+<details>
+<summary><b>HVM — Use any desktop OS without leaving a trace with HiddenVM</b></summary></br>
+<a href="https://github.com/aforensics/HiddenVM">https://github.com/aforensics/HiddenVM</a><br>
+<hr>
+<br>
+</details>
+
+
+<details>
+<summary><b>Whonix — How to set up Whonix VM with VirtualBox (Oracle®) on Linux</b></summary>
+
+<em>Always prefer the live system mode that doesn't leave any kind of forensic trace. Always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
-<p>Storage device: Minimum of 16 GB.</p>
-<p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
 <p>For optimal performance: 8 GB of RAM.</p>
+<p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
+<p>Storage device: Minimum of 32 GB.</p>
 <a href="https://forums.whonix.org/t/recommended-specs/9679">https://forums.whonix.org/t/recommended-specs/9679</a>
 
 <h4>2. Automatic installation for Linux:</h4>
@@ -79,16 +106,17 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>TailsOS VM - How to setup TailsOS VM with VirtualBox</b></summary></br>
+<summary><b>TailsOS VM — How to setup TailsOS VM with VirtualBox (Oracle®)</b></summary></br>
+
 <p>Introduction: Welcome to the tutorial on creating a VirtualBox with TailsOS, Oracle VM VirtualBox is simple yet powerful as it can be run from a multitude of devices such as small embedded systems to datacenter deployments whilst TailsOS is a portable operating system that protects against surveillance and censorship.</p>
 
 <em>Always prefer the live mode that doesn't leave any kind of forensic trace. Always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
 <p><b>Hardware requirements:</b></p>
-<p>Storage device: Minimum of 16 GB.</p>
-<p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
 <p>For optimal performance: 8 GB of RAM.</p>
+<p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
+<p>Storage device: Minimum of 32 GB.</p>
 
 <b>How can I check my system's hardware?</b>
 <p>Click the Start button and type &quot;system information&quot; then open it.</p>
@@ -153,24 +181,17 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>HiddenVM — Use any desktop OS without leaving a trace.</b></summary></br>
-<a href="https://github.com/aforensics/HiddenVM">https://github.com/aforensics/HiddenVM</a><br>
-<hr>
-<br>
-</details>
-
-<details>
-<summary><b>Attacks on Tor - Thirteen Years of Tor Attacks</b></summary></br>
+<summary><b>Attacks on Tor — Thirteen Years of Tor Attacks</b></summary></br>
 <a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">https://github.com/Attacks-on-Tor/Attacks-on-Tor</a><br>
 <hr>
 <br>
 </details>
 
-<p>EFF Tor University Challenge - https://toruniversity.eff.org</p></br>
+<h6>EFF Tor University Challenge - https://toruniversity.eff.org </h6>
 
 <hr>
 
-### GENERAL  
+<h3>GENERAL</h3>  
 My Onion Bookmarks - http://7fc532c5lvbky6lxlt3gxnbj67gqmpzym2rowtekllgypyprbjxfiiad.onion</br>
 Simple Bookmarks - http://afajj7x4zfl2d3fc2u7uzxp4iwf4r2kucr5on24xk2hwrssoj7yivhid.onion</br>
 V3Paste – http://v3pastedc5jeqahtq77gvu3vz222bcqhlfubfunzjzqedg6jdqqlvgqd.onion</br>
@@ -193,7 +214,7 @@ Psychonaut Wiki – http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv
 HackTown – http://hacktowns3sba2xavxecm23aoocvzciaxirh3vekg2ovzdjgjxedfvqd.onion</br>
 SuprBay – http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion</br>
 
-### SEARCH ENGINES  
+<h3>SEARCH ENGINES</h3>
 Ahmia.fi - http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion</br>
 DuckDuckGo - https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion</br>
 ExcavaTOR – http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion</br>
@@ -219,7 +240,7 @@ FindTor - http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion<
 Tordex - http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion</br>
 Tor Links - http://5n4qdkw2wavc55peppyrelmb2rgsx7ohcb2tkxhub2gyfurxulfyd3id.onion</br>
 
-### SECURITY AND PRIVACY
+<h3>SECURITY AND PRIVACY</h3>
 Electronic Frontier Foundation - https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion</br>
 DNM Bible – http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion</br>
 XMRGuide – http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion</br>
@@ -243,13 +264,13 @@ Fake ID Generator - http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk
 Black Hat Chat - http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion </br>
 Tor Specifications - http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion</br>
 
-### VPN   
+<h3>VPN</h3>
 Mullvad – http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion</br>
 Cryptostorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion</br>
 Njalla VPN – https://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</br>
 AirVPN – https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion</br>
 
-### COMUNICATION  
+<h3>COMUNICATION</h3>
 Protonmail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion</br>
 DNMX - http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion</br>
 Onion Mail - http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion</br>
@@ -275,7 +296,7 @@ WebIRC – http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion
 Cwtch – http://cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion</br>
 ZeroBin - http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion</br>
 
-### CRYPTOCURRENCY  
+<h3>CRYPTOCURRENCY</h3>
 Bisq Wiki - http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion</br>
 Wasabi - http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion</br>
 Hidden Wallet - http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion</br>
@@ -291,13 +312,13 @@ Blockstream – http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.
 Cryptostamps – http://lgh3eosuqrrtvwx3s4nurujcqrm53ba5vqsbim5k5ntdpo33qkl7buyd.onion</br>
 Antialysis – http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion</br>
 
-### CRYPTOCURRENCY EXCHANGES
+<h3>CRYPTOCURRENCY EXCHANGES</h3>
 Exch - http://hszyoqnysrl7lpyfms2o5xonhelz2qrz36zrogi2jhnzvpxdzbvzimqd.onion</br>
 Majestic Bank - http://vyzjtg3peh3rspo67i55pd644o4vh5ygggqhz25c7w3qwfqwuacifoyd.onion</br>
 Infinity Exchanger - http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion</br>
 Coinomize - http://coinokfc7xi42zoxp5l7c42zidr3nf6bvbhcevqqiey5d5q2h555mwid.onion</br>
 
-### MARKETS AND SERVICES
+<h3>MARKETS AND SERVICES</h3>
 Incognito Market - http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion </br>
 Nemesis Market - http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion </br>
 Bohemia - http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion</br>
@@ -320,7 +341,7 @@ UkGunsAndAmmo – http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpena
 UkGunsAndAmmo – http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzid.onion</br>
 Dream Market - </br>
 
-### LIBRARIES  
+<h3>LIBRARIES</h3>
 Z-Library - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</br>
 Z-Library Login Page - http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion</br>
 Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</br>
@@ -331,7 +352,7 @@ InfoCon - http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion<
 GenoType.INC - http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</br>
 TSSA – http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion</br>
 
-### NEWS AND BLOGS  
+<h3>NEWS AND BLOGS</h3>
 Tor Times - http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion</br>
 DarkMatter – http://dark3i5wry7zl7hdpmidmaflve7cmxzhvhpoutrryb5vd44qc52tbhad.onion</br>
 DarkNetLive – http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion</br>
@@ -340,7 +361,7 @@ Tape-News - http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onio
 NCIDE Task Force -   http://ncidetfs7banpz2d7vpndev5somwoki5vwdpfty2k7javniujekit6ad.onion</br>
 National Police of the Netherlands - http://tcecdnp2fhyxlcrjoyc2eimdjosr65hweut6y7r2u6b5y75yuvbkvfyd.onion</br>
 
-### CHANS    
+<h3>CHANS</h3>
 8Chan - http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion</br>
 9chan - http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion</br>
 256Chan – http://dngtk6iydmpokbyyk3irqznceft3hze6q6rasrqlz46v7pq4klxnl4yd.onion</br>
@@ -349,13 +370,13 @@ Picochan - http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion
 zzzchan - http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion</br>
 NeinChan - http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion</br>
 
-### DOWNLOADS  
+<h3>DOWNLOADS</h3>
 Archive.is - http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion</br>
 Demonoid - http://demonoidevmsgasmojajlhikwetsr4pxzw6xkjt3dgdv6nr5yxvsamid.onion</br>
 The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion</br>
 Torrent Galaxy - http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion</br>
 
-### HOSTING AND DOMAINS    
+<h3>HOSTING AND DOMAINS</h3>
 Njalla – https://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</br>
 Freedom Hosting – http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion</br>
 Ablative – http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion</br>
@@ -370,7 +391,7 @@ HARICA Certificate Authority - https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwd
 <br>
 <hr>
 
-<h2>REFERENCES</h2>
+<h3>REFERENCES</h3>
 
 <table style="width:100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -401,8 +422,13 @@ https://godnotaba.io</br>
 </tr>
 </table>
 
+
+<h3>SCRAPING</h3>
 Scraping or inspecting deep web links</br>
 https://github.com/RetroPackets/GRIME </br>
 https://github.com/k4m4/onion-regex</br>
 https://github.com/k4m4/onioff</br>
 https://github.com/DanWin/onion-link-list</br>
+
+</body>
+</html>
