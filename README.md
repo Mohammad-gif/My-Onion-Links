@@ -9,8 +9,7 @@
 
 <h1> 👽🤡🧙👻💀 ONION LINKS 💀👻🧙🤡👽</h1>
 
-<blockquote><h3>"If the government or the parties won't address our needs, we will.    
-It's about direct action, even civil disobedience." (Edward Snowden)</h3></blockquote>
+<blockquote><h3>"If the government or the parties won't address our needs, we will. It's about direct action, even civil disobedience." (Edward Snowden)</h3></blockquote>
 
 <div id="header" align="center">
   <img src=".data/las_meninas_1656_-_velazquez_830px.png"/>
@@ -63,22 +62,22 @@ Advanced  select:</br>
 -> network.ttr.mode - <b>2</b> - DNS-over-HTTPS (DoH)</br>
 -> browser.cache.offline.enable - <b>false</b> - If TRUE, it allows websites to store data on your computer for when you would be offline.</br>
 <hr>
-<br>
+</br>
 </details>
 
 <details>
 <summary><b>KVM — Using Whonix with KVM (Kernel Virtual Machine)</b></summary></br>
-<a href="https://www.whonix.org/wiki/KVM#What_is_KVM?">https://www.whonix.org/wiki/KVM</a><br>
+<a href="https://www.whonix.org/wiki/KVM#What_is_KVM?">https://www.whonix.org/wiki/KVM</a></br>
 <hr>
-<br>
+</br>
 </details>
 
 
 <details>
 <summary><b>HVM — Use any desktop OS without leaving a trace with HiddenVM</b></summary></br>
-<a href="https://github.com/aforensics/HiddenVM">https://github.com/aforensics/HiddenVM</a><br>
+<a href="https://github.com/aforensics/HiddenVM">https://github.com/aforensics/HiddenVM</a></br>
 <hr>
-<br>
+</br>
 </details>
 
 
@@ -102,7 +101,7 @@ Advanced  select:</br>
 <a href="https://www.whonix.org/wiki/Debian#Debian">https://www.whonix.org/wiki/Debian#Debian</a></br>
 
 <hr>
-<br>
+</br>
 </details>
 
 <details>
@@ -125,14 +124,14 @@ Advanced  select:</br>
 
 <h4>2. Setting up the VirtualBox:</h4>
 <b><em>What is a VirtualBox?</em></b>
-<p>In short, VirtualBox is a tool developed by Oracle to allow running multiple operating systems simultaneously. This allows easier software installations, better testing, faster disaster recovery, and it significantly reduce hardware and electricity costs.<br>The complete introduction can be found here:<br>
+<p>In short, VirtualBox is a tool developed by Oracle to allow running multiple operating systems simultaneously. This allows easier software installations, better testing, faster disaster recovery, and it significantly reduce hardware and electricity costs.</br>The complete introduction can be found here:</br>
 <a href="https://www.virtualbox.org/manual/ch01.html#virt-why-useful">virtualbox.org - Chapter 1. First Steps</a></p></br>
 
 <b>How to install the VirtualBox?</b>
-<p>You can install VirtualBox by downloading the executable file for your operating system.<br>The download page that can be found here:<br>
+<p>You can install VirtualBox by downloading the executable file for your operating system.</br>The download page that can be found here:</br>
 <a href="https://www.virtualbox.org/wiki/Downloads">virtualbox.org - Downloads</a></p>
 <h4>3. Setting up Tails OS:</h4>
-<p>Running Tails in a virtual machine is easy. First you need to download an ISO (Optical Disc Image) with the latest Tails Operating System (OS). This ISO image will be used to emulate inserting a CD to our VirtualBox to set up our Tails OS machine.<br>The Tails OS ISO image can be found here:<br>
+<p>Running Tails in a virtual machine is easy. First you need to download an ISO (Optical Disc Image) with the latest Tails Operating System (OS). This ISO image will be used to emulate inserting a CD to our VirtualBox to set up our Tails OS machine.</br>The Tails OS ISO image can be found here:</br>
 <a href="https://tails.boum.org/install/vm-download/index.en.html">tails.net - Downloads</a></p>
 
 <h4>Running Tails in a virtual machine:</h4>
@@ -177,14 +176,14 @@ Advanced  select:</br>
 <li>Click <strong>Start</strong>.</li>
 </ol>
 <hr>
-<br>
+</br>
 </details>
 
 <details>
 <summary><b>Attacks on Tor — Thirteen Years of Tor Attacks</b></summary></br>
-<a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">https://github.com/Attacks-on-Tor/Attacks-on-Tor</a><br>
+<a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">https://github.com/Attacks-on-Tor/Attacks-on-Tor</a></br>
 <hr>
-<br>
+</br>
 </details>
 
 <h6>EFF Tor University Challenge - https://toruniversity.eff.org </h6>
@@ -342,8 +341,9 @@ UkGunsAndAmmo – http://onili244aue7jkvzn2bgaszcb7nznkpyihdhh7evflp3iskfq7vhlzi
 Dream Market - </br>
 
 <h3>LIBRARIES</h3>
-Z-Library - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</br>
-Z-Library Login Page - http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion</br>
+<s>Z-Library - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion</s> 
+<s>Z-Library Login Page - http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion</s></br>
+<p><b>Visit: https://go-to-zlibrary.se/#desktop_app_tab</b></p> 
 Imperial Library - http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion</br>
 The Anarchist Library - http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</br>
 Comic Book Library - http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion</br>
@@ -388,7 +388,7 @@ Njalla - http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion</
 Cloudflare Public DNS 1.1.1.1 - https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion</br>
 HARICA Certificate Authority - https://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion</br>
 
-<br>
+</br>
 <hr>
 
 <h3>REFERENCES</h3>
@@ -417,11 +417,10 @@ https://raddle.me/wiki/onion_index</br>
 https://dark.fail</br>
 https://kycnot.me</br>
 https://godnotaba.io</br>
-<br>
+</br>
 </td>
 </tr>
 </table>
-
 
 <h3>SCRAPING</h3>
 Scraping or inspecting deep web links</br>
