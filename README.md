@@ -197,7 +197,9 @@ Advanced  select:</br>
 <h6>EFF Tor University Challenge - https://toruniversity.eff.org</br>
 r/Scams - https://www.reddit.com/r/Scams</br>
 r/BitcoinMixer - https://www.reddit.com/r/BitcoinMixer</br>
-./bookmarks_import.html</h6>
+</h6>
+
+<h3>Import easily: https://github.com/RENANZG/My-Onion-Links/blob/main/bookmarks_import.html</h3>
 
 
 <H1></H1>
