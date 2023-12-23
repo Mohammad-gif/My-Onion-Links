@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='en' class=''>
+<html lang='en'>
 
 <head>
 
@@ -7,12 +7,14 @@
 
 <body>
 
+<div id="header">
+
 <h1> 👽🤡🧙👻💀 ONION LINKS 💀👻🧙🤡👽</h1>
 
 <blockquote><h3>"If the government or the parties won't address our needs, we will. It's about direct action, even civil disobedience." (Edward Snowden)</h3></blockquote>
 
-<div id="header" align="center">
-  <img src=".data/las_meninas_1656_-_velazquez_830px.png"/>
+  <img src=".data/las_meninas_1656_-_velazquez_830px.png" title="Las Meninas (1656) - Velazquez" width="100%"/>
+
 </div>
 
 <hr>
@@ -449,11 +451,17 @@ https://godnotaba.io</br>
 </table>
 
 <h3>SCRAPING</h3>
-Scraping or inspecting deep web links</br>
+
+<table style="width:100%" cellspacing="0" cellpadding="0">
+<td align="left" valign="top">
+<h5>Scraping or inspecting deep web links</h5> </br>
 https://github.com/RetroPackets/GRIME </br>
 https://github.com/k4m4/onion-regex</br>
 https://github.com/k4m4/onioff</br>
 https://github.com/DanWin/onion-link-list</br>
+</td>
+</tr>
+</table>
 
 </body>
 </html>
