@@ -94,10 +94,12 @@ Advanced  select:</br>
 <em>Always prefer the live system mode that doesn't leave any kind of forensic trace. Always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
+
 <p><b>Hardware requirements:</b></p>
 <p>For optimal performance: 8 GB of RAM.</p>
 <p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
 <p>Storage device: Minimum of 32 GB.</p>
+
 <a href="https://forums.whonix.org/t/recommended-specs/9679">https://forums.whonix.org/t/recommended-specs/9679</a>
 
 <h4>2. Automatic installation for Linux:</h4>
@@ -114,15 +116,23 @@ Advanced  select:</br>
 <details>
 <summary><b>TailsOS VM — How to setup TailsOS VM with VirtualBox (Oracle®)</b></summary></br>
 
-<p>Introduction: Welcome to the tutorial on creating a VirtualBox with TailsOS, Oracle VM VirtualBox is simple yet powerful as it can be run from a multitude of devices such as small embedded systems to datacenter deployments whilst TailsOS is a portable operating system that protects against surveillance and censorship.</p>
+<sub>Credits: https://github.com/SuleimanGithub/how-to-setup-tails-os-vm</sub>
+
+<p>Introduction:</p>
+
+<p>Welcome to the tutorial on creating a VirtualBox with TailsOS, Oracle VM VirtualBox is simple yet powerful as it can be run from a multitude of devices such as small embedded systems to datacenter deployments whilst TailsOS is a portable operating system that protects against surveillance and censorship.</p>
 
 <em>Always prefer the live mode that doesn't leave any kind of forensic trace. Always prefer Linux as a host.</em>
 
 <h4>1. Check that you have the required computer specification:</h4>
+
 <p><b>Hardware requirements:</b></p>
 <p>For optimal performance: 8 GB of RAM.</p>
 <p>Processor: A quadcore, 64-bit x86-64 compatible.</p>
 <p>Storage device: Minimum of 32 GB.</p>
+
+<p>Edited because of: 
+<a href="https://forums.whonix.org/t/recommended-specs/9679">https://forums.whonix.org/t/recommended-specs/9679</a> </p>
 
 <b>How can I check my system's hardware?</b>
 <p>Click the Start button and type &quot;system information&quot; then open it.</p>
@@ -182,21 +192,46 @@ Advanced  select:</br>
 <li>Select the virtual machine in the left pane.</li>
 <li>Click <strong>Start</strong>.</li>
 </ol>
+
 <hr>
 </br>
+
 </details>
 
 <details>
 <summary><b>Attacks on Tor — Thirteen Years of Tor Attacks</b></summary></br>
+
 <a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">https://github.com/Attacks-on-Tor/Attacks-on-Tor</a></br>
+
 <hr>
 </br>
 
 </details>
 
+<details>
+<summary><b>The Dark Web - A Time Line</b></summary></br>
+
+<img src="The_Dark_Web_-_A_Time_Line_1.jpeg" title="The Dark Web - A Time Line" width="100%"/>
+
+<sub>Credits: https://betanews.com/2020/03/13/happy-birthday-dark-web/</sub>
+
+<img src="The_Dark_Web_-_A_Time_Line_2.jpeg" title="The Dark Web - A Time Line" width="100%"/>
+
+<p>More at: https://github.com/bibanon </p>
+
+<hr>
+</br>
+
+</details>
+
+
 <h6>EFF Tor University Challenge - https://toruniversity.eff.org</br>
-r/Scams - https://www.reddit.com/r/Scams</br>
-r/BitcoinMixer - https://www.reddit.com/r/BitcoinMixer</br>
+
+<a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br>
+<a href="https://www.reddit.com/r/BitcoinMixer" target="_blank" rel="noopener noreferrer">r/BitcoinMixer</a></br>
+<a href="https://www.reddit.com/r/onion" target="_blank" rel="noopener noreferrer">r/onion</a></br>
+<a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br> 
+<a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
 </h6>
 
 <h3>Import easily: https://github.com/RENANZG/My-Onion-Links/blob/main/bookmarks_import.html</h3>
@@ -478,6 +513,18 @@ https://github.com/DanWin/onion-link-list</br>
 </td>
 </tr>
 </table>
+
+
+<!--################################### -->
+
+<div id="footer">
+
+<br>
+<br>
+<br>
+
+<img src="We_Want_You_-_Anon.png"  align="center"/>
+</div>
 
 </body>
 </html>
