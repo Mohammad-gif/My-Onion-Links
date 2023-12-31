@@ -214,7 +214,7 @@ Advanced  select:</br>
 
 <p>The Dark Web - A Time Line</p>
 
-<img src="The_Dark_Web_-_A_Time_Line_1.jpeg" title="The Dark Web - A Time Line" width="100%"/>
+<img src=".data/Dark_Web_-_A_Time_Line.jpeg" title="The Dark Web - A Time Line" width="100%"/>
 
 <sub>Credits: https://betanews.com/2020/03/13/happy-birthday-dark-web/</sub>
 
