@@ -209,15 +209,24 @@ Advanced  select:</br>
 </details>
 
 <details>
-<summary><b>The Dark Web - A Time Line</b></summary></br>
+<summary><b>Dark Web Infographics</b></summary></br>
+<br>
+
+<p>The Dark Web - A Time Line</p>
 
 <img src="The_Dark_Web_-_A_Time_Line_1.jpeg" title="The Dark Web - A Time Line" width="100%"/>
 
 <sub>Credits: https://betanews.com/2020/03/13/happy-birthday-dark-web/</sub>
 
-<img src="The_Dark_Web_-_A_Time_Line_2.jpeg" title="The Dark Web - A Time Line" width="100%"/>
+<p>Dark Web Markets (2017) - Europol</p>
 
-<p>More at: https://github.com/bibanon </p>
+<img src=".data/Dark_Web_Markets_-_Europol_2017.jpg" title="Dark Web Markets (2017) - Europol" width="100%"/>
+
+<p>Dark Web - Price Index 2022</p>
+
+<img src=".data/Dark_Web_-_2022_Index_Full.jpg" title="Dark Web - Price Index 2022" width="100%"/>
+
+<p>Others: https://github.com/bibanon</p>
 
 <hr>
 </br>
@@ -417,8 +426,10 @@ Advanced  select:</br>
      <DT><A HREF="http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion">Just Another Library <BR><PRE> http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion</PRE></A>
      <DT><A HREF="http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion">The Anarchist Library <BR><PRE> http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion</PRE></A>
      <DT><A HREF="http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion">InfoCon <BR><PRE> http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion</PRE></A>
-     <DT><A HREF="http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion">Comic Book Library <BR><PRE> http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion</PRE></A>
+     <DT><A HREF="https://libgen.is/"><BR><PRE>https://libgen.is/</PRE></A>
+     <DT><A HREF="http://libgen.li"><BR><PRE>http://libgen.li</PRE></A>
      <DT><A HREF="http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion">GenoType.INC <BR><PRE> http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion</PRE></A>
+     <DT><A HREF="http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion">Comic Book Library <BR><PRE> http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion</PRE></A>
      <DT><A HREF="http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion">TSSA <BR><PRE> http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion</PRE></A>
  </DL><p>
  <DL><p>
@@ -510,6 +521,13 @@ https://github.com/RetroPackets/GRIME </br>
 https://github.com/k4m4/onion-regex</br>
 https://github.com/k4m4/onioff</br>
 https://github.com/DanWin/onion-link-list</br>
+https://github.com/s-rah/onionscan</br>
+https://github.com/milesrichardson/docker-onion-nmap</br>
+https://github.com/DedSecInside/TorBot</br>
+http://www.torscan.io</br>
+https://darkweb.hunch.ly</br>
+https://oint.ctrlbox.com</br>
+https://iaca-darkweb-tools.com</br>
 </td>
 </tr>
 </table>
