@@ -532,6 +532,9 @@ https://iaca-darkweb-tools.com</br>
 </tr>
 </table>
 
+<!--################################### -->
+
+<p align="right"> <a href="https://github.com/RENANZG/My-Onion-Links?tab=readme-ov-file#">Back to Top ⬆</a> </p>
 
 <!--################################### -->
 
