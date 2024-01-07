@@ -13,7 +13,7 @@
 
 <blockquote><h3>"If the government or the parties won't address our needs, we will. It's about direct action, even civil disobedience." (Edward Snowden)</h3></blockquote>
 
-  <img src=".data/las_meninas_1656_-_velazquez_830px.png" title="Las Meninas (1656) - Velazquez" width="100%"/>
+  <p align="center"><img src=".data/las_meninas_1656_-_velazquez_830px.png" title="Las Meninas (1656) - Velazquez"/></p>
 
 </div>
 
@@ -31,15 +31,19 @@
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
 </a></br>
 
+
 <a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
 <a href="https://www.youtube.com/watch?v=47zJPU0VHSQ">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D47zJPU0VHSQ" alt="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA" title="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA"/></a></br>
 
+
 <a href="https://youtu.be/ovAmnAirvz8">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FovAmnAirvz8" alt="Twitter Hacker Faces 77 Years in Prison" title="Twitter Hacker Faces 77 Years in Prison"/>
 </a>
-
+<a href="https://youtu.be/JehEh7i1PIE">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FJehEh7i1PIE" alt="This image Can Hack You (The .webp Exploit)" title="This image Can Hack You (The .webp Exploit)"/>
+</a>
 </details>
 
 <details>
@@ -338,6 +342,7 @@ Advanced  select:</br>
      <DT><A HREF="http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion">Protonmail <BR><PRE> http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion</PRE></A>
      <DT><A HREF="http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion">Onion Mail <BR><PRE> http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion</PRE></A>
      <DT><A HREF="http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion">OnionShare <BR><PRE> http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion</PRE></A>
+     <DT><A HREF="http://4tdb2oju6nrrp77en6opmyfucvycs22y5ohuizfgjvbyjqjovltooyyd.onion">Tempsend <BR><PRE> http://4tdb2oju6nrrp77en6opmyfucvycs22y5ohuizfgjvbyjqjovltooyyd.onion</PRE></A>
      <DT><A HREF="http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion">BlackCloud <BR><PRE> http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion</PRE></A>
      <DT><A HREF="http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onion">dump.li <BR><PRE> http://dumpliwoard5qsrrsroni7bdiishealhky4snigbzfmzcquwo3kml4id.onion</PRE></A>
      <DT><A HREF="http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion">Riseup <BR><PRE> http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion</PRE></A>
@@ -532,6 +537,8 @@ https://iaca-darkweb-tools.com</br>
 </tr>
 </table>
 
+<br>
+
 <!--################################### -->
 
 <p align="right"> <a href="https://github.com/RENANZG/My-Onion-Links?tab=readme-ov-file#">Back to Top ⬆</a> </p>
@@ -546,6 +553,8 @@ https://iaca-darkweb-tools.com</br>
 
 <img src="We_Want_You_-_Anon.png"  align="center"/>
 </div>
+
+<!--################################### -->
 
 </body>
 </html>
