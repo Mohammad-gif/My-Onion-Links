@@ -83,14 +83,12 @@ Advanced  select:</br>
 </br>
 </details>
 
-
 <details>
 <summary><b>HVM — Use any desktop OS without leaving a trace with HiddenVM</b></summary></br>
 <a href="https://github.com/aforensics/HiddenVM">https://github.com/aforensics/HiddenVM</a></br>
 <hr>
 </br>
 </details>
-
 
 <details>
 <summary><b>Whonix — How to set up Whonix VM with VirtualBox (Oracle®) on Linux</b></summary>
