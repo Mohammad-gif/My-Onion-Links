@@ -13,7 +13,7 @@
 
 <blockquote><h3>"If the government or the parties won't address our needs, we will. It's about direct action, even civil disobedience." (Edward Snowden)</h3></blockquote>
 
-  <p align="center"><img src=".data/las_meninas_1656_-_velazquez_830px.png" title="Las Meninas (1656) - Velazquez"/></p>
+  <p align="center"><img src="https://github.com/RENANZG/My-Onion-Links/assets/53377291/13688964-5ddd-4d11-9ae9-baf0c8f996db" title="Las Meninas (1656) - Velazquez"/></p>
 
 </div>
 
