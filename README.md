@@ -31,18 +31,24 @@
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
 </a></br>
 
-
 <a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
 <a href="https://www.youtube.com/watch?v=47zJPU0VHSQ">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D47zJPU0VHSQ" alt="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA" title="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA"/></a></br>
 
-
 <a href="https://youtu.be/ovAmnAirvz8">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FovAmnAirvz8" alt="Twitter Hacker Faces 77 Years in Prison" title="Twitter Hacker Faces 77 Years in Prison"/>
 </a>
 <a href="https://youtu.be/JehEh7i1PIE">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FJehEh7i1PIE" alt="This image Can Hack You (The .webp Exploit)" title="This image Can Hack You (The .webp Exploit)"/>
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FJehEh7i1PIE" alt="This image Can Hack You (The .webp Exploit)" title="This image Can Hack You (The .webp Exploit)"/></br>
+
+<a href="https://www.youtube.com/watch?v=PYuB-cCJwkU">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPYuB-cCJwkU" alt="How is Interpol experimenting with policing the metaverse? - BBC News" title="How is Interpol experimenting with policing the metaverse? - BBC News"/>
+</a>
+<a href="https://www.youtube.com/watch?v=d-Jm8-eTLhw&pp=ygUVbG9saSBtZXRhdmVyc2UgcG9saWNl">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dd-Jm8-eTLhw%26pp%3DygUVbG9saSBtZXRhdmVyc2UgcG9saWNl" alt="The Loli Police Department in VRChat" title="The Loli Police Department in VRChat"/>
+</a>
+
 </a>
 </details>
 
