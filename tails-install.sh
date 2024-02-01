@@ -19,8 +19,7 @@ fi
 # set -x
 TAILS_VERSION=$(curl -s -L http://dl.amnesia.boum.org/tails/stable/ | sed -n "s/^.*\(tails-amd64-[0-9.]*\).*$/\1/p")
 if [ -z "$TAILS_VERSION" ]; then
-  echo "Could not detect latest version of TAILS. Please report this issue at"
-  echo "https://github.com/rmwb/tails-installer-macos-cli/issues/new"
+  echo "Could not detect the latest version of TAILS."
   exit 1
 fi
 TAILS_ISO_URL="http://dl.amnesia.boum.org/tails/stable/$TAILS_VERSION/$TAILS_VERSION.iso"
@@ -36,10 +35,10 @@ fi
 create_disk () {
   TARGET_DISK=$1
 
-  # This erases the TARGET disk and creates 1 FAT32 partition that is of the
-  # size of the drive.
-  if [ "$( uname -s )" == "Darwin" ];then
-    diskutil eraseDisk FAT32 $USB_PART_NAME $TARGET_DISK
+  # This erases the TARGET disk and creates 1 FAT32 partition that is of the size of the drive.
+  if [ "$(uname -s)" == "Linux" ]; then
+    echo "Erasing $TARGET_DISK and creating a FAT32 partition..."
+    mkfs.vfat -F 32 -n $USB_PART_NAME $TARGET_DISK
   else
     echo "Currently don't support building image on this platform"
   fi
@@ -47,27 +46,29 @@ create_disk () {
 
 mount_disk () {
   # This mounts the USB disk and returns the mount_point of the USB disk
-  local  __resultvar=$1
-  if [ "$( uname -s )" == "Darwin" ];then
-    local mount_point="/Volumes/$USB_PART_NAME"
-    diskutil mount -mountpoint $mount_point $USB_PART_NAME
+  local __resultvar=$1
+  if [ "$(uname -s)" == "Linux" ]; then
+    local mount_point="/media/$USB_PART_NAME"
+    mkdir -p "$mount_point"
+    mount $TARGET_DISK "$mount_point"
   else
     echo "Currently don't support building image on this platform"
     exit 1
-  fi
+      fi
   eval $__resultvar="'$mount_point'"
 }
 
 mount_iso () {
   # This mounts the .iso and returns its mount point
-  local  __resultvar=$1
-  if [ "$( uname -s )" == "Darwin" ];then
-    local mount_point="/Volumes/TAILS_ISO"
-    hdiutil attach -mountpoint $mount_point data/tails.iso
+  local __resultvar=$1
+  if [ "$(uname -s)" == "Linux" ]; then
+    local mount_point="/media/TAILS_ISO"
+    mkdir -p "$mount_point"
+    mount -o data/tails.iso "$mount_point"
   else
     echo "Currently don't support building image on this platform."
     exit 1
-  fi
+      fi
   eval $__resultvar="'$mount_point'"
 }
 
@@ -100,63 +101,39 @@ download_tails () {
 }
 
 choose_disk () {
-  # This lists all the disks in a way that is readable by the user. The read
-  # input will then be passed as argument to the create_disk function.
+  # This lists all the disks in a way that is readable by the user. The read input will then be passed as argument to the create_disk function.
   echo "What disk would you like to use for the TAILS image?"
-  diskutil list 
-  echo "for example: disk2"
+  lsblk
+  echo "for example: /dev/sdd"
   read TARGET_DISK
 }
 
 create_image () {
-
   choose_disk
 
-  echo "Warning $TARGET_DISK will be erased. Do you wish to continue [y|n]? "
+  echo "Warning: $TARGET_DISK will be erased. Do you wish to continue [y|n]? "
   read ans 
   
-  if [ $ans = y -o $ans = Y -o $ans = yes -o $ans = Yes -o $ans = YES ]
-  then
+  if [[ $ans =~ ^[Yy]([Ee][Ss])?$ ]]; then
     echo "Ok, you wanted it!"
   else
-    echo "Ok, no worries. Still friends, right?"
+    echo "Ok"
     exit 1
   fi
 
-  if [ -f data/tails.iso ]; then
-    echo "[+] Found tails image in data/tails.iso. Using it!"
+  if [ -f "data/tails.iso" ]; then
+    echo "[+] Found Tails image in data/tails.iso. Using it!"
   else
     download_tails
   fi
 
-  verify_tails
-
-  if [ -f data/BOOTX64.efi ];then
-    echo "[+] Found a EFI boot image in data/BOOTX64.efi. Using it."
-  else
-    echo "[+] Generating the BOOTX64.efi with vagrant. This will take a while."
-    vagrant up
-  fi
-
-  create_disk $TARGET_DISK
-  mount_iso ISO_PATH
-  mount_disk DISK_PATH
-
-  mkdir -p $DISK_PATH/EFI/BOOT/
-
-  echo "[+] Copying BOOTX64.efi"
-  cp data/BOOTX64.efi $DISK_PATH/EFI/BOOT/
-
-  echo "[+] Copying grub.cfg"
-  cp grub.cfg $DISK_PATH/EFI/BOOT/
-
+  create_disk "$TARGET_DISK"
+  
   echo "[+] Copying live directory"
-  rsync -ah --progress $ISO_PATH/live $DISK_PATH
-
+  dd if="data/tails.iso" of="$TARGET_DISK" bs=4M status=progress
+  
   echo "All done"
 }
 
-hdiutil detach $ISO_PATH
 
 create_image;
-
