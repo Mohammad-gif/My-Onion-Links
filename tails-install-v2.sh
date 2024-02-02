@@ -1,14 +1,19 @@
 #!/bin/bash
 
 ######################################################
+##  Install Tails from Debian or Ubuntu             ##
+##  https://tails.net/install/expert/index.en.html  ##
 ##  Make it executable:                             ##
 ##  $ sudo chmod +x ~/Downloads/tails-install.sh    ##
 ##  Then run                                        ##
 ##  $ sudo bash ~/Downloads/tails-install.sh        ##
 ######################################################
+## ISSUES SOLVED - HYBRID IMG - ISOLINUX AND SYSLINUX
+## https://wiki.syslinux.org/wiki/index.php?title=Doc/isolinux#HYBRID_CD-ROM.2FHARD_DISK_MODE
+######################################################
 
 if [ "$1" == "clean" ]; then
-  find data -not -path data -not -path data/BOOTX64.efi -not -path data/.gitignore -delete
+  find data -not -path data -delete 
   echo "Cleaned up the data/ directory!"
   echo "You can now re-run the script with:"
   echo "$0"
@@ -22,9 +27,9 @@ if [ -z "$TAILS_VERSION" ]; then
   echo "Could not detect the latest version of TAILS."
   exit 1
 fi
-TAILS_ISO_URL="http://dl.amnesia.boum.org/tails/stable/$TAILS_VERSION/$TAILS_VERSION.iso"
-TAILS_SIG_URL="https://tails.boum.org/torrents/files/$TAILS_VERSION.iso.sig"
-TAILS_KEY_URL="https://tails.boum.org/tails-signing.key"
+TAILS_ISO_URL="http://dl.amnesia.boum.org/tails/stable/$TAILS_VERSION/$TAILS_VERSION.img"
+TAILS_SIG_URL="https://tails.net/torrents/files/$TAILS_VERSION.img.sig"
+TAILS_KEY_URL="https://tails.net/tails-signing.key"
 USB_PART_NAME="TAILSLIVE"
 
 if [ ! -d "data" ]; then
@@ -59,12 +64,12 @@ mount_disk () {
 }
 
 mount_iso () {
-  # This mounts the .iso and returns its mount point
+  # This mounts the .img and returns its mount point
   local __resultvar=$1
   if [ "$(uname -s)" == "Linux" ]; then
     local mount_point="/media/TAILS_ISO"
     mkdir -p "$mount_point"
-    mount -o data/tails.iso "$mount_point"
+    mount -o data/tails.img "$mount_point"
   else
     echo "Currently don't support building image on this platform."
     exit 1
@@ -74,7 +79,7 @@ mount_iso () {
 
 verify_tails () {
   curl -o data/tails-signing.key -L $TAILS_KEY_URL
-  curl -o data/tails.iso.sig -L $TAILS_SIG_URL
+  curl -o data/tails.img.sig -L $TAILS_SIG_URL
  
   rm -f data/tmp_keyring.pgp
   gpg --no-default-keyring --keyring data/tmp_keyring.pgp --import data/tails-signing.key
@@ -86,8 +91,8 @@ verify_tails () {
     exit 1
   fi
   
-  if gpg --no-default-keyring --keyring data/tmp_keyring.pgp --verify data/tails.iso.sig; then
-    echo "The .iso seems legit."
+  if gpg --no-default-keyring --keyring data/tmp_keyring.pgp --verify data/tails.img.sig; then
+    echo "The .img seems legit."
   else
     echo "ERROR! The iso does not seem to be signed by the TAILS key. Something is fishy!"
     exit 1
@@ -96,15 +101,15 @@ verify_tails () {
 
 download_tails () {
   echo "[+] Downloading $TAILS_VERSION image."
-  curl -o data/tails-tmp.iso -L $TAILS_ISO_URL
-  mv data/tails-tmp.iso data/tails.iso
+  curl -o data/tails-tmp.img -L $TAILS_ISO_URL
+  mv data/tails-tmp.img data/tails.img
 }
 
 choose_disk () {
   # This lists all the disks in a way that is readable by the user. The read input will then be passed as argument to the create_disk function.
   echo "What disk would you like to use for the TAILS image?"
   lsblk
-  echo "for example: /dev/sdd"
+  echo "for example: /dev/sdc"
   read TARGET_DISK
 }
 
@@ -117,20 +122,20 @@ create_image () {
   if [[ $ans =~ ^[Yy]([Ee][Ss])?$ ]]; then
     echo "Ok, you wanted it!"
   else
-    echo "Ok"
+    echo "Bye!"
     exit 1
   fi
 
-  if [ -f "data/tails.iso" ]; then
-    echo "[+] Found Tails image in data/tails.iso. Using it!"
+  if [ -f "data/tails.img" ]; then
+    echo "[+] Found Tails image in data/tails.img. Using it!"
   else
     download_tails
   fi
 
   create_disk "$TARGET_DISK"
   
-  echo "[+] Copying live directory"
-  dd if="data/tails.iso" of="$TARGET_DISK" bs=4M status=progress
+  echo "[+] Copying live directory, wait."
+     dd if="data/tails.img" of="$TARGET_DISK" bs=16M oflag=direct status=progress
   
   echo "All done"
 }
