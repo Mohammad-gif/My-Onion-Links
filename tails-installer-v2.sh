@@ -1,16 +1,16 @@
 #!/bin/bash
 
 ######################################################
-##  Install Tails from Debian or Ubuntu             ##
+##  Install Tails from Debian or Ubuntu, based on   ##
 ##  https://tails.net/install/expert/index.en.html  ##
+##  https://github.com/hellais/TAILS-OSX            ##
+##                                                  ##
 ##  Make it executable:                             ##
 ##  $ sudo chmod +x ~/Downloads/tails-install.sh    ##
 ##  Then run                                        ##
 ##  $ sudo bash ~/Downloads/tails-install.sh        ##
 ######################################################
-## ISSUES SOLVED - HYBRID IMG - ISOLINUX AND SYSLINUX
-## https://wiki.syslinux.org/wiki/index.php?title=Doc/isolinux#HYBRID_CD-ROM.2FHARD_DISK_MODE
-######################################################
+
 
 if [ "$1" == "clean" ]; then
   find data -not -path data -delete 
