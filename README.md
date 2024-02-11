@@ -482,7 +482,6 @@ Advanced  select:</br>
      <DT><A HREF="http://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion">HARICA Certificate Authority <BR><PRE> http://4gmrlefxkq4mtan6a2lqwfwa7un4brjlatka75nwdczemqqwn3wznnad.onion</PRE></A>
  </DL><p>
     
-
 </br>
 <hr>
 
@@ -516,6 +515,7 @@ https://hidden-wiki.cc</br>
 https://raddle.me/wiki/onion_index</br>
 https://kycnot.me</br>
 https://godnotaba.io</br>
+https://kleinfinger.org</br>
 </br>
 </td>
 </tr>
@@ -555,7 +555,7 @@ https://iaca-darkweb-tools.com</br>
 <br>
 <br>
 
-<img src="We_Want_You_-_Anon.png"  align="center"/>
+<img src="We_Want_You_-_Anon.png" align="center"/>
 </div>
 
 <!--################################### -->
