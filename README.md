@@ -241,14 +241,8 @@ Advanced  select:</br>
 
 </details>
 
-
 <h6>EFF Tor University Challenge - https://toruniversity.eff.org</br>
 
-<a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br>
-<a href="https://www.reddit.com/r/BitcoinMixer" target="_blank" rel="noopener noreferrer">r/BitcoinMixer</a></br>
-<a href="https://www.reddit.com/r/onion" target="_blank" rel="noopener noreferrer">r/onion</a></br>
-<a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br> 
-<a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
 </h6>
 
 <h3>Import easily: https://github.com/RENANZG/My-Onion-Links/blob/main/bookmarks_import.html</h3>
@@ -505,10 +499,14 @@ https://darknetlive.link</br>
 
 </td>
 <td align="left" valign="top">
-https://www.reddit.com/r/onions</br>
-https://www.reddit.com/r/TOR</br>
-https://www.reddit.com/r/darknet</br>
-https://www.reddit.com/r/HiddenWeb</br>
+<a href="https://www.reddit.com/r/darknet" target="_blank" rel="noopener noreferrer">r/darknet</a></br>
+<a href="https://www.reddit.com/r/onions" target="_blank" rel="noopener noreferrer">r/onions</a></br>
+<a href="https://www.reddit.com/r/onion" target="_blank" rel="noopener noreferrer">r/onion</a></br>
+<a href="https://www.reddit.com/r/TOR" target="_blank" rel="noopener noreferrer">r/TOR</a></br>
+<a href="https://www.reddit.com/r/HiddenWeb" target="_blank" rel="noopener noreferrer">r/HiddenWeb</a></br>
+<a href="https://www.reddit.com/r/tails" target="_blank" rel="noopener noreferrer">r/tails</a></br>
+<a href="https://www.reddit.com/r/Scams" target="_blank" rel="noopener noreferrer">r/Scams</a></br>
+<a href="https://www.reddit.com/r/BitcoinMixer" target="_blank" rel="noopener noreferrer">r/BitcoinMixer</a></br>
 https://oniondotindex.com</br>
 https://pastebin.com</br>
 https://hidden-wiki.cc</br>
@@ -516,6 +514,7 @@ https://raddle.me/wiki/onion_index</br>
 https://kycnot.me</br>
 https://godnotaba.io</br>
 https://kleinfinger.org</br>
+https://www.vice.com</br>
 </br>
 </td>
 </tr>
