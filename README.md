@@ -31,8 +31,9 @@
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGR_U0G-QGA0" alt="Bad Opsec - How Tor Users Got Caught" title="Bad Opsec - How Tor Users Got Caught"/>
 </a></br>
 
-<a href="https://www.youtube.com/watch?v=01oeaBb85Xc">
-<img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D01oeaBb85Xc" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
+<a href="https://www.youtube.com/watch?v=NGiUhjuB22Y">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNGiUhjuB22Y" alt="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor" title="DEF CON 30 - Sam Bent - Tor - Darknet Opsec By a Veteran Darknet Vendor"/>
+</a>
 <a href="https://www.youtube.com/watch?v=47zJPU0VHSQ">
 <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D47zJPU0VHSQ" alt="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA" title="Cyber Security: Why Is This (Still) So Hard? General Michael V. Hayden, former Director of the NSA and CIA"/></a></br>
 
@@ -389,10 +390,12 @@ Advanced  select:</br>
      <DT><A HREF="http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion">Infinity Exchanger <BR><PRE> http://exchanger.fn2b4tg4nfo7lu67dg4txdv7nrvfqavhg3pxlqnrgpfo7jz4g6hxamid.onion</PRE></A>
  </DL><p>
  <DL><p>
-     <DT><H3>MARKETS AND SERVICES</H3>
-     <DT><A HREF="http://kingdomm7v6yed55o2rbspvs4exn5bzfxdizqaav27tw6gw4zc65vdab.online"><DEL>Fallen Kingdom <BR> http://kingdomm7v6yed55o2rbspvs4exn5bzfxdizqaav27tw6gw4zc65vdab.online</DEL></A>
-     <DT><A HREF="http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion">Incognito Market <BR><PRE> http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion</PRE></A>
+    <DT><H3>MARKETS AND SERVICES</H3>
+     <DT><A HREF="http://ares4mlk24n7jeekzvmagvv6o3kt6smr7v3vrcmcxwummtkniexx7qad.onion">Ares <BR><PRE> http://ares4mlk24n7jeekzvmagvv6o3kt6smr7v3vrcmcxwummtkniexx7qad.onion</PRE></A>
+     <DT><A HREF="http://kerberqtg7xpofsc3w47nvjd52sys6hqdejk3h7fz6kbqhyqrds3xgqd.onion">Kerberos <BR><PRE> http://kerberqtg7xpofsc3w47nvjd52sys6hqdejk3h7fz6kbqhyqrds3xgqd.onion</PRE></A>
      <DT><A HREF="http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion">Nemesis Market <BR><PRE> http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion</PRE></A>
+     <DT><A HREF="http://alphabay4k2n67yczlvsr65blmmqsgx56yxle7pdb5dxwmls6v6fbcad.onion">AlphaBay Market (down)<BR> http://kingdomm7v6yed55o2rbspvs4exn5bzfxdizqaav27tw6gw4zc65vdab.online</DEL></A>
+     <DT><A HREF="http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion">Incognito Market <BR><PRE> http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion</PRE></A>
      <DT><A HREF="http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion">Bohemia <BR><PRE> http://bohemianli3oj427gmh7t7yrpkxuxh7zdjwofim74tdpgtx6tlbelfyd.onion</PRE></A>
      <DT><A HREF="http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion">Bitpharma <BR><PRE> http://guzjgkpodzshso2nohspxijzk5jgoaxzqioa7vzy6qdmwpz3hq4mwfid.onion</PRE></A>
      <DT><A HREF="http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion">Abacus Market <BR><PRE> http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion</PRE></A>
@@ -412,10 +415,8 @@ Advanced  select:</br>
      <DT><A HREF="http://4pt4axrbg44wivonwz5hqac6ccuuqtysvuyzldd4cqox5vnogxb4koqd.onion">Archetyp <BR><PRE> http://4pt4axrbg44wivonwz5hqac6ccuuqtysvuyzldd4cqox5vnogxb4koqd.onion</PRE></A>
      <DT><A HREF="http://torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion">TorZon <BR><PRE> http://torzonqgq7icutzxe4pjpsftwk2tuj5lnbj2j3tmnwwuak6kurvpp3yd.onion</PRE></A>
      <DT><A HREF="http://abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion">Abacus <BR><PRE> http://abacusxmi5bwqncyr3kbhqwpcl2dmzevla4rhi6ijekp7x2w5bg5yyqd.onion</PRE></A>
-     <DT><A HREF="http://ares4mlk24n7jeekzvmagvv6o3kt6smr7v3vrcmcxwummtkniexx7qad.onion">Ares <BR><PRE> http://ares4mlk24n7jeekzvmagvv6o3kt6smr7v3vrcmcxwummtkniexx7qad.onion</PRE></A>
-     <DT><A HREF="http://citymtntdj32ztac3mendod2ld6sq2234u4pvsspxo4o5stk57ssz2qd.onion">City <BR><PRE> http://citymtntdj32ztac3mendod2ld6sq2234u4pvsspxo4o5stk57ssz2qd.onion</PRE></A>
+      <DT><A HREF="http://citymtntdj32ztac3mendod2ld6sq2234u4pvsspxo4o5stk57ssz2qd.onion">City <BR><PRE> http://citymtntdj32ztac3mendod2ld6sq2234u4pvsspxo4o5stk57ssz2qd.onion</PRE></A>
      <DT><A HREF="http://questxsxg2mdlkqeus2esdnsgxue4xwdrwq6vskothhx7xbusvwla7ad.onion">Quest <BR><PRE> http://questxsxg2mdlkqeus2esdnsgxue4xwdrwq6vskothhx7xbusvwla7ad.onion</PRE></A>
-     <DT><A HREF="http://kerberqtg7xpofsc3w47nvjd52sys6hqdejk3h7fz6kbqhyqrds3xgqd.onion">Kerberos <BR><PRE> http://kerberqtg7xpofsc3w47nvjd52sys6hqdejk3h7fz6kbqhyqrds3xgqd.onion</PRE></A>
      <DT><A HREF="http://6c5qav2hck3j4mctrcav4b6i6tp5hd2bgcpflnkre2xxum6lcliuxkad.onion">Cypher <BR><PRE> http://6c5qav2hck3j4mctrcav4b6i6tp5hd2bgcpflnkre2xxum6lcliuxkad.onion</PRE></A>
      <DT><A HREF="http://blackpykv66cybipwjxda6c6mvk3uxfih736ljmzeultufyx5y7fohyd.onion">BlackPyramid <BR><PRE> http://blackpykv66cybipwjxda6c6mvk3uxfih736ljmzeultufyx5y7fohyd.onion</PRE></A>
      <DT><A HREF="http://hn2pawxhwytyhtexin3x65q2aza2q7zkhrybeujpsy2523r777cdxxad.onion">WeTheNorth <BR><PRE> http://hn2pawxhwytyhtexin3x65q2aza2q7zkhrybeujpsy2523r777cdxxad.onion</PRE></A>
@@ -515,6 +516,8 @@ https://kycnot.me</br>
 https://godnotaba.io</br>
 https://kleinfinger.org</br>
 https://www.vice.com</br>
+https://darknetlive.com</br>
+https://www.youtube.com/@Seytonic</br>
 </br>
 </td>
 </tr>
