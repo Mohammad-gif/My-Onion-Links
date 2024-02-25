@@ -7,11 +7,11 @@ https://www.whonix.org/wiki/I2P<br>
 https://www.reddit.com/r/i2p<br>
 
 <h4>Tails with I2P</h4>
-https://www.youtube.com/@DoingFedTime<br>
-https://www.youtube.com/watch?v=kfkN1i9FRUY<br>
-https://github.com/Plowsker/tails-i2pd<br>
 https://www.reddit.com/r/prestium<br>
 https://github.com/DoingFedTime/Prestium<br>
+https://github.com/Plowsker/tails-i2pd<br>
+https://www.youtube.com/@DoingFedTime<br>
+https://www.youtube.com/watch?v=kfkN1i9FRUY<br>
 
 <h4>Others</h4>
 https://eyedeekay.github.io<br>
