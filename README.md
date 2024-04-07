@@ -56,21 +56,24 @@
 <details>
 <summary><b>Tor Settings for Dark Web</b></summary>
 </br>
-Go to:</br>
+
+Go to (CTRL + L):</br>
 <pre>about:preferences#privacy</pre>
 Select:</br>
 -> Prioritize .onion sites when known. - Always</br>
 -> Security Level - Safest</br>
-Go to:</br>
+
+Go to (CTRL + L):</br>
 <pre>about:preferences#tor</pre>
 Select:</br>
 -> Always connect automatically</br>
 -> Use a bridge - Select a built-in bridge (obfs4 - Prevents your ISP from seeing Tor traffic.)</br>
-Go to:</br>
+
+Go to (CTRL + L):</br>
 <pre>about:config</pre>
 Basic select:</br>
 -> javascript.enabled	 - <b>false</b></br>
-Advanced  select:</br>
+Advanced  select (*take care with fingerprint):</br>
 -> media.peerconnection.enabled	- <b>false</b> -	WebRTC</br>
 -> privacy.resistFingerprinting	- <b>true</b> - More resistant to fingerprinting</br>
 -> geo.enabled - <b>false</b> - Disable geolocation tracking.</br>
@@ -79,6 +82,7 @@ Advanced  select:</br>
 -> dom.event.clipboardevents.enabled - <b>false</b> - With this option disabled, websites won't know if you copy/paste something from their web page and which part of the page had been selected.
 -> network.ttr.mode - <b>2</b> - DNS-over-HTTPS (DoH)</br>
 -> browser.cache.offline.enable - <b>false</b> - If TRUE, it allows websites to store data on your computer for when you would be offline.</br>
+
 <hr>
 </br>
 </details>
@@ -92,7 +96,9 @@ Advanced  select:</br>
 
 <details>
 <summary><b>HVM — Use any desktop OS without leaving a trace with HiddenVM</b></summary></br>
+
 <a href="https://github.com/aforensics/HiddenVM">https://github.com/aforensics/HiddenVM</a></br>
+
 <hr>
 </br>
 </details>
@@ -204,13 +210,18 @@ Advanced  select:</br>
 
 <hr>
 </br>
-
 </details>
 
 <details>
 <summary><b>Attacks on Tor — Thirteen Years of Tor Attacks</b></summary></br>
 
+<p>Attacks on Tor — Thirteen Years of Tor Attacks</p>
+
 <a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">https://github.com/Attacks-on-Tor/Attacks-on-Tor</a></br>
+
+<p>LightEater Demo: Stealing GPG keys/emails in Tails via remote firmware infection</p>
+
+<a href="https://www.youtube.com/watch?v=sNYsfUNegEA">https://www.youtube.com/watch?v=sNYsfUNegEA</a></br>
 
 <hr>
 </br>
@@ -242,9 +253,7 @@ Advanced  select:</br>
 
 </details>
 
-<h6>EFF Tor University Challenge - https://toruniversity.eff.org</br>
-
-</h6>
+<h6>EFF Tor University Challenge - https://toruniversity.eff.org</h6>
 
 <h4>Import easily: https://github.com/RENANZG/My-Onion-Links/blob/main/bookmarks_import.html</h4>
 
